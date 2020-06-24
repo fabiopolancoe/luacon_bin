@@ -1,7 +1,7 @@
 -- Luacon 1.0 @ Coalio
 -- Licensed under GNU Public License
 -- License is available at this folder
--- If license is not available, please request a copy
+-- If license is not available within this folder, please request a copy
 
 local string = string
 local xpcall = xpcall
