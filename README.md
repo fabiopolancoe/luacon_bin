@@ -23,8 +23,8 @@ Add `luacon.exe` `luacon_config` `luacon_utils` to your utils folder, then type 
 
 ```
 
-:q :quit : exit the current luacon instance
-:e : collect all entries and save them to a file
+:q :quit >> exit the current luacon instance
+:e >> collect all entries and save them to a file
 ```
 
 <hr>
