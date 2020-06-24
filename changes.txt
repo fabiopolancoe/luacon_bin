@@ -3,3 +3,4 @@
 - Initial release does not support multiple shells
 - luacon.ico provided
 - luacon.png provided
+- Added Linux compatibility
