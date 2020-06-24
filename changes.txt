@@ -1,0 +1,5 @@
+<---1.0--->
+
+- Initial release does not support multiple shells
+- luacon.ico provided
+- luacon.png provided
