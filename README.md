@@ -13,9 +13,13 @@ Source is available on this repository
 A compiled binary is available in this repository
 
 ## Installation
+### Windows
 Create an utils folder (Generally inside your "Codes" folder) and add it to your environment `PATH` variable
 
 Add `luacon.exe` `luacon_config` `luacon_utils` to your utils folder, then type `luacon` in your console, you will notice the initialization motd and `>>` prefix waiting for input
+
+### Linux
+Download the folder and extract it anywhere in your home folder, please read the instructions at the README.md inside the `linux` folder.
 
 ## General usage
 
