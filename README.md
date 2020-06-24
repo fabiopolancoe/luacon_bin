@@ -3,7 +3,7 @@ Luacon binary executable by terminal
 
 ![alt text](https://github.com/coalio/luacon_bin/blob/master/demo/demo1.PNG)
 
-<b>The initial release does not support multiple shells</b>
+<b>The initial release does not support luacon shells</b>
 
 ## Compile source
 Source was compiled using https://github.com/LuaDist/srlua
