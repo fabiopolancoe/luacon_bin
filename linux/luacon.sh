@@ -1,3 +1,3 @@
 #!/bin/sh
 
-love /usr/bin/luacon-f/luacon.lua
+lua /usr/bin/luacon-f/luacon.lua
